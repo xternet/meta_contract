@@ -3,7 +3,7 @@
 
 ## 📃 Instructions:
 0. Download and install dependencies:
-</br>```git clone https://github.com/xternet/meta_contract.git && cd meta_contract && npm i```
+</br>```git clone git@github.com:xternet/meta_contract.git && cd meta_contract && npm i```
 2. Compile contracts:
 </br>```npx hardhat compile```
 3. Rename <b>.env.example</b> to <b>.env</b> and pass private key into it (default network is rinkeby)
