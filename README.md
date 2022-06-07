@@ -1,8 +1,8 @@
-# meta_contract
+# 🪄 m3t@ c0ntr@ct 🔮
 > A method to deploy & upgrade contract at partially defined address.
 
 ## 📃 Instructions:
-0. Download and install dependencies:
+0. Download & install dependencies:
 </br>```git clone git@github.com:xternet/meta_contract.git && cd meta_contract && npm i```
 2. Compile contracts:
 </br>```npx hardhat compile```
