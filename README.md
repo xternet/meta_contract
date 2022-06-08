@@ -1,5 +1,5 @@
 # 🪄 m3t@ c0ntr@ct 🔮
-> A method to deploy & upgrade contract at partially defined address.
+> A method to deploy & upgrade contract at partially predefined address.
 
 ## 📃 Instructions:
 0. Download & install dependencies:
